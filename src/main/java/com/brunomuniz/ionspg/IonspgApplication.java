@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class IonspgApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(IonspgApplication.class, args);
 	}
 }
